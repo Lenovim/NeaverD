@@ -1,7 +1,16 @@
 locale M = {}
 
-function M.debug()
-	
-	print("Hello world")
+
+
+
+
+M.debug = function()
+	print("Hello this is function")
 
 end
+
+
+
+
+
+
